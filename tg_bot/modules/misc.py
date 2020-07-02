@@ -508,12 +508,15 @@ __help__ = """
 - /markdownhelp: quick summary of how markdown works in telegram - can only be called in private chats.
 ──────────────────────────────────────
 *#MyAnimeList*
-Get information about anime, manga or characters with the help of this module!
+Get information about anime, manga or characters from [MyAnimeList](https://myanimelist.net).
 *Available commands:*
-- /sanime <anime>: returns information about the anime.
-- /scharacter <character>: returns information about the character.
-- /smanga <manga>: returns information about the manga.
-- /upcoming: returns a list of new anime in the upcoming seasons.
+ • `/anime <anime>`*:* returns information about the anime.
+ • `/character <character>`*:* returns information about the character.
+ • `/manga <manga>`*:* returns information about the manga.
+ • `/user <user>`*:* returns information about a MyAnimeList user.
+ • `/upcoming`*:* returns a list of new anime in the upcoming seasons.
+ • `/kaizoku <anime>`*:* search an anime on animekaizoku.com
+ • `/kayo <anime>`*:* search an anime on animekayo.com
 ───────────────────────────────────────
 *#Last.FM*
 Share what you're what listening to with the help of this module!
