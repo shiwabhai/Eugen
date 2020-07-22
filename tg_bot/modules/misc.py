@@ -507,8 +507,8 @@ __help__ = """
 - /ud <expression> : Returns the top definition of the word or expression on Urban Dictionary.
 - /markdownhelp: quick summary of how markdown works in telegram - can only be called in private chats.
 ──────────────────────────────────────
-*#MyAnimeList*
-Get information about anime, manga or characters from [MyAnimeList](https://myanimelist.net).
+*#Anime*
+Get information about anime, manga or characters from [AniList](anilist.co).
 *Available commands:*
  • `/anime <anime>`*:* returns information about the anime.
  • `/character <character>`*:* returns information about the character.

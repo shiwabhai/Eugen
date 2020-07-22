@@ -22,7 +22,7 @@ PM_START_TEXT = """
 Hi {}, my name is {}! If you have any questions on how to use me, read /help - and then head to @Ironbloodchat.
 
 I'm a group manager bot built in python3, using the python-telegram-bot library, and am fully opensource; \
-you can find what makes me tick [here](github.com/Dank-del/Eugen)!
+you can find what makes me tick [here](https://github.com/EagleUnion/Eugen)!
 
 Feel free to submit pull requests on github, or to contact my support group, @Ironbloodchat, with any bugs, questions \
 or feature requests you might have :)
