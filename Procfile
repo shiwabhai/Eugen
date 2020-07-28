@@ -1,2 +1,2 @@
 worker: python3 -m tg_bot
-worker: python3 -m TomoeRobot
+worker: python3 -m tg_bot
