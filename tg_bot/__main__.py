@@ -21,14 +21,14 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 Hi {}, my name is {}! If you have any questions on how to use me, read /help - and then head to @Ironbloodchat.
 
-I'm a group manager bot built in python3, using the python-telegram-bot library, and am fully opensource; \
-you can find what makes me tick [here](https://github.com/EagleUnion/Eugen)!
+I'm 
+
 
 Feel free to submit pull requests on github, or to contact my support group, @Ironbloodchat, with any bugs, questions \
 or feature requests you might have :)
 
 You can find the list of available commands with /help.
-
+join support group [here] (t.me/anie_support)
 """
 
 HELP_STRINGS = """
